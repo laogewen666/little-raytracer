@@ -3,7 +3,7 @@
 # 漫反射（郎伯体）材质
 ![image](https://user-images.githubusercontent.com/73890243/168414048-61129b7e-76a4-402e-a79b-ba2d29241a54.png)
 # 金属材质
-![image](https://user-images.githubusercontent.com/73890243/168414355-5273d434-8705-4a50-af0b-f274797217c7.png)
+![image](https://user-images.githubusercontent.com/73890243/168421370-b2ae965a-ba1b-4bf3-8077-774fb9eac16a.png)
 # 玻璃材质
 ![image](https://user-images.githubusercontent.com/73890243/168414642-8f141aaa-c59e-4ee9-be66-1b418c17b626.png)
 # 弹跳的物体
