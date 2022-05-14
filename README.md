@@ -1,11 +1,11 @@
 # little-raytracer
 跟着raytracing in one week系列做了下来，实现了光线追踪器的部分功能
 # 漫反射（郎伯体）材质
-![image](https://user-images.githubusercontent.com/73890243/168414048-61129b7e-76a4-402e-a79b-ba2d29241a54.png)
+![image](https://user-images.githubusercontent.com/73890243/168421758-15e2c727-ac1a-4ece-8e11-13fbf5aa04f1.png)
 # 金属材质
 ![image](https://user-images.githubusercontent.com/73890243/168421370-b2ae965a-ba1b-4bf3-8077-774fb9eac16a.png)
 # 玻璃材质
-![image](https://user-images.githubusercontent.com/73890243/168414642-8f141aaa-c59e-4ee9-be66-1b418c17b626.png)
+![image](https://user-images.githubusercontent.com/73890243/168421677-fc8bdb52-598c-4a99-929f-40f223a7dcc5.png)
 # 弹跳的物体
 ![image](https://user-images.githubusercontent.com/73890243/168420774-c2cc4019-907b-498b-b11d-a678e470535b.png)
 # BVH加速结构
