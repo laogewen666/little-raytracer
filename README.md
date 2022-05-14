@@ -7,10 +7,10 @@
 # 玻璃材质
 ![image](https://user-images.githubusercontent.com/73890243/168414642-8f141aaa-c59e-4ee9-be66-1b418c17b626.png)
 # 弹跳的物体
-![image](https://user-images.githubusercontent.com/73890243/168415269-a7ef3835-bb09-4f81-a713-e5a3d9f16bc8.png)
+![image](https://user-images.githubusercontent.com/73890243/168420774-c2cc4019-907b-498b-b11d-a678e470535b.png)
 # BVH加速结构
 使用加速结构渲染如下图片可以发现，时间缩短了将近1/3  
-![image](https://user-images.githubusercontent.com/73890243/168415269-a7ef3835-bb09-4f81-a713-e5a3d9f16bc8.png)  
+![image](https://user-images.githubusercontent.com/73890243/168420775-f6fe12ad-049b-42bf-a917-c60c48484911.png)  
 ![image](https://user-images.githubusercontent.com/73890243/168415212-74a3bd2d-7e6b-4b69-b988-68aed750eda0.png)  
 ![image](https://user-images.githubusercontent.com/73890243/168415440-ed92b8f6-6d5c-439c-aa8c-f7e77be711ce.png)  
 
