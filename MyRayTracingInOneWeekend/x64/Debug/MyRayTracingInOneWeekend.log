@@ -1,0 +1,5 @@
+﻿  Main.cpp
+E:\Ray Tracing in one week\MyRayTracingInOneWeekend\BVH.h(69,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Ray Tracing in one week\MyRayTracingInOneWeekend\sphere.h(56): warning C4715: “sphere::hit”: 不是所有的控件路径都返回值
+E:\Ray Tracing in one week\MyRayTracingInOneWeekend\sphere.h(122): warning C4715: “movingsphere::hit”: 不是所有的控件路径都返回值
+  MyRayTracingInOneWeekend.vcxproj -> E:\Ray Tracing in one week\MyRayTracingInOneWeekend\x64\Debug\MyRayTracingInOneWeekend.exe
