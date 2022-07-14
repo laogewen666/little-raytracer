@@ -1,5 +1,5 @@
 # little-raytracer
-跟着raytracing in one week系列做了下来，实现了光线追踪器的部分功能
+实现了光线追踪器的部分功能
 # 漫反射（郎伯体）材质
 ![image](https://user-images.githubusercontent.com/73890243/168421758-15e2c727-ac1a-4ece-8e11-13fbf5aa04f1.png)
 # 金属材质
